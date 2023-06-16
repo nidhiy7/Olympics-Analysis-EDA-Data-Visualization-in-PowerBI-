@@ -28,4 +28,5 @@ The Power BI dashboard aims to shed light on major patterns in Olympic history, 
 - Number of Nations: The dashboard reveals the number of participating nations in the modern Olympics. It demonstrates the global nature of the Games and how they have evolved into a platform for countries worldwide to compete and showcase their athletic prowess.
 - Athlete Origins: The dashboard visualizes the geographic distribution of athletes in the modern Olympics. It identifies the countries or regions from which the majority of athletes hail, offering insights into the nations that have historically produced the most Olympic participants.
 - Medal Winners: The dashboard provides information on countries that have won the most medals in the modern Olympics. It highlights the dominant nations in terms of medal count, enabling an understanding of the powerhouses in Olympic competition.
-  
+
+![Olympics_Analysis_page-0001](https://github.com/nidhiy7/Sql-Queries-Practise/assets/80893000/1dffcb76-0f19-4aa0-a606-c49c426400be)
