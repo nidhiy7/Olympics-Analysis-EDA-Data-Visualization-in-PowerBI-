@@ -16,6 +16,7 @@ In this Project I have analyze  dataset on the modern Olympic Games, including a
 ## Kaggle link
 
   <li> My Notebook : https://www.kaggle.com/code/nidhiy07/discover-eda-about-olympics-using-powerbi </li>
+  <li> My Dashboard link : https://mavenanalytics.io/project/6688 </li>
 </ul>
 
 # Olympics Data Analysis Using Power Bi Dashboard
